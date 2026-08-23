@@ -1,0 +1,828 @@
+{
+  "books": [
+    {
+      "id": "2b56eb40-4fa0-8058-9d00-dfd5026805fa",
+      "title": "Shoe Dog",
+      "author": "Phil Knight",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/2b56eb40-4fa0-8058-9d00-dfd5026805fa.jpg"
+    },
+    {
+      "id": "3636eb40-4fa0-800b-a274-dec257f30102",
+      "title": "Days at Torunka Cafe",
+      "author": "Satoshi yagisawa",
+      "status": "Finished",
+      "genre": "",
+      "cover": "assets/books/3636eb40-4fa0-800b-a274-dec257f30102.jpg"
+    },
+    {
+      "id": "3276eb40-4fa0-80de-a4d1-df1404410167",
+      "title": "Critique of Judgement",
+      "author": "Immanuel Kant",
+      "status": "Finished",
+      "genre": "Philosophy",
+      "cover": "assets/books/3276eb40-4fa0-80de-a4d1-df1404410167.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-808c-ad23-f8109b49b2a4",
+      "title": "The Fountainhead",
+      "author": "Ayn Rand",
+      "status": "Finished",
+      "genre": "Philosophy",
+      "cover": "assets/books/3676eb40-4fa0-808c-ad23-f8109b49b2a4.jpg"
+    },
+    {
+      "id": "3466eb40-4fa0-80b9-8e3f-ea86396b4d3d",
+      "title": "The wonderful adventures of Nils Holgersson",
+      "author": "Selma lagerlof",
+      "status": "Finished",
+      "genre": "Fiction",
+      "cover": "assets/books/3466eb40-4fa0-80b9-8e3f-ea86396b4d3d.jpg"
+    },
+    {
+      "id": "37f6eb40-4fa0-80d2-9a5b-e44d4dd401e1",
+      "title": "The finest hotel in Kabul",
+      "author": "Lyse Doucet",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/37f6eb40-4fa0-80d2-9a5b-e44d4dd401e1.jpg"
+    },
+    {
+      "id": "2b56eb40-4fa0-8148-a3d4-dae18f00c036",
+      "title": "Greenlights",
+      "author": "Matthew McConaughey",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/2b56eb40-4fa0-8148-a3d4-dae18f00c036.jpg"
+    },
+    {
+      "id": "2b66eb40-4fa0-802c-9582-cfa4248675d1",
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand",
+      "status": "Finished",
+      "genre": "Philosophy",
+      "cover": "assets/books/2b66eb40-4fa0-802c-9582-cfa4248675d1.jpg"
+    },
+    {
+      "id": "37f6eb40-4fa0-8015-9cde-dd30c80611c3",
+      "title": "Hello",
+      "author": "Nicholas Epley",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/37f6eb40-4fa0-8015-9cde-dd30c80611c3.jpg"
+    },
+    {
+      "id": "34c6eb40-4fa0-808f-b59d-d3275a31576b",
+      "title": "The Augmentative Indian",
+      "author": "Amartya Sen",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/34c6eb40-4fa0-808f-b59d-d3275a31576b.jpg"
+    },
+    {
+      "id": "3386eb40-4fa0-8036-852e-faeb13d67bf4",
+      "title": "The Innovaters",
+      "author": "Walter Isaacson",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3386eb40-4fa0-8036-852e-faeb13d67bf4.jpg"
+    },
+    {
+      "id": "31c6eb40-4fa0-805d-a0bd-ef9988f64391",
+      "title": "Vikramaditya",
+      "author": "V A Iyer",
+      "status": "Finished",
+      "genre": "History",
+      "cover": "assets/books/31c6eb40-4fa0-805d-a0bd-ef9988f64391.jpg"
+    },
+    {
+      "id": "2e26eb40-4fa0-8099-a267-c83a90c7e6ea",
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/2e26eb40-4fa0-8099-a267-c83a90c7e6ea.jpg"
+    },
+    {
+      "id": "2d96eb40-4fa0-8001-993c-d788843f6f30",
+      "title": "The New Icon",
+      "author": "Arun Shourie",
+      "status": "Finished",
+      "genre": "History",
+      "cover": "assets/books/2d96eb40-4fa0-8001-993c-d788843f6f30.jpg"
+    },
+    {
+      "id": "2b56eb40-4fa0-8098-8d27-dc9196500c0b",
+      "title": "Discovery of India",
+      "author": "Jawaharlal Nehru",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/2b56eb40-4fa0-8098-8d27-dc9196500c0b.jpg"
+    },
+    {
+      "id": "2b56eb40-4fa0-80ee-8eab-d959eaa8a2f2",
+      "title": "The Outsider",
+      "author": "Vir Das",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/2b56eb40-4fa0-80ee-8eab-d959eaa8a2f2.jpg"
+    },
+    {
+      "id": "2b56eb40-4fa0-802b-bbaa-fdff83fa5eb0",
+      "title": "Unseen",
+      "author": "Megha Vishwanath",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/2b56eb40-4fa0-802b-bbaa-fdff83fa5eb0.jpg"
+    },
+    {
+      "id": "2b56eb40-4fa0-804e-b4b4-e9194b521aed",
+      "title": "Shattered Lands",
+      "author": "Sam Dalryample",
+      "status": "Finished",
+      "genre": "History",
+      "cover": "assets/books/2b56eb40-4fa0-804e-b4b4-e9194b521aed.jpg"
+    },
+    {
+      "id": "34c6eb40-4fa0-80fd-befa-d772cdb82122",
+      "title": "Another Way Of Beginning : Pep Guardiola",
+      "author": "Guillem Balague",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/34c6eb40-4fa0-80fd-befa-d772cdb82122.png"
+    },
+    {
+      "id": "34c6eb40-4fa0-80dd-afa7-d0eef0fb6bbe",
+      "title": "How to fail at everything and still win big",
+      "author": "Scott Adams",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/34c6eb40-4fa0-80dd-afa7-d0eef0fb6bbe.png"
+    },
+    {
+      "id": "3556eb40-4fa0-8043-b392-c067a66fb866",
+      "title": "Book of Clarity",
+      "author": "Paras Chopra",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3556eb40-4fa0-8043-b392-c067a66fb866.jpg"
+    },
+    {
+      "id": "3556eb40-4fa0-80f4-866c-c68c3a15e390",
+      "title": "Energize your mind",
+      "author": "Gaur Gopal Das",
+      "status": "Reading",
+      "genre": "",
+      "cover": "assets/books/3556eb40-4fa0-80f4-866c-c68c3a15e390.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-805e-b1af-f8e2340f4161",
+      "title": "Made in America",
+      "author": "Sam Walton",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/3676eb40-4fa0-805e-b1af-f8e2340f4161.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-80f5-b0dd-eebf16b50561",
+      "title": "When Breath Becomes air",
+      "author": "Paul Kalanithi",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/3676eb40-4fa0-80f5-b0dd-eebf16b50561.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-804b-ba54-d2ab41811e57",
+      "title": "The Uncool",
+      "author": "Cameron Crowe",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/3676eb40-4fa0-804b-ba54-d2ab41811e57.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-8078-9b07-dc4ef7f639a6",
+      "title": "Quantum",
+      "author": "Manjit Kumar",
+      "status": "Finished",
+      "genre": "Science Fiction (Sci-Fi)",
+      "cover": "assets/books/3676eb40-4fa0-8078-9b07-dc4ef7f639a6.webp"
+    },
+    {
+      "id": "3676eb40-4fa0-80ac-b597-d1f3b6e23b01",
+      "title": "The Google Story",
+      "author": "David Vise",
+      "status": "Finished",
+      "genre": "Business / Finance",
+      "cover": "assets/books/3676eb40-4fa0-80ac-b597-d1f3b6e23b01.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-80ac-8a85-e460a4e440c1",
+      "title": "Think like a freak",
+      "author": "Steven Levitt",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3676eb40-4fa0-80ac-8a85-e460a4e440c1.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-80a0-bc0f-db5fb1ed8a81",
+      "title": "Disciplined Entrepreneurship",
+      "author": "Bill Aulet",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3676eb40-4fa0-80a0-bc0f-db5fb1ed8a81.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-8098-8389-f784160ca4a5",
+      "title": "The Subtle Art of Not Giving A Fuck",
+      "author": "Mark Mason",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3676eb40-4fa0-8098-8389-f784160ca4a5.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-8004-9dd9-e1eaa484fad5",
+      "title": "Leonardo Da Vinci",
+      "author": "Walter Isaacson",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/3676eb40-4fa0-8004-9dd9-e1eaa484fad5.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-8033-8238-cba72f64fec1",
+      "title": "The Reckoning",
+      "author": "John Grisham",
+      "status": "Finished",
+      "genre": "Fiction",
+      "cover": "assets/books/3676eb40-4fa0-8033-8238-cba72f64fec1.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-802c-890c-e4194585852c",
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "status": "Finished",
+      "genre": "Science Fiction (Sci-Fi)",
+      "cover": "assets/books/3676eb40-4fa0-802c-890c-e4194585852c.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-80a1-91a2-f6a700b357cd",
+      "title": "Ted Talks",
+      "author": "Chris Anderson",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3676eb40-4fa0-80a1-91a2-f6a700b357cd.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-8096-8d6a-d7929cfab4d4",
+      "title": "Measure What Matters",
+      "author": "John Doerr",
+      "status": "Finished",
+      "genre": "Business / Finance",
+      "cover": "assets/books/3676eb40-4fa0-8096-8d6a-d7929cfab4d4.png"
+    },
+    {
+      "id": "3676eb40-4fa0-8021-9596-da0e14e7e01f",
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "status": "Finished",
+      "genre": "Business / Finance",
+      "cover": "assets/books/3676eb40-4fa0-8021-9596-da0e14e7e01f.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-801d-bba5-ed8eda7e4efd",
+      "title": "Big bet Big rewards",
+      "author": "Sushil Mantri",
+      "status": "Finished",
+      "genre": "Business / Finance",
+      "cover": "assets/books/3676eb40-4fa0-801d-bba5-ed8eda7e4efd.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-80a7-b4ba-e446037e5c2f",
+      "title": "Extreme Ownership",
+      "author": "Jocko Willink",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3676eb40-4fa0-80a7-b4ba-e446037e5c2f.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-806d-9772-d99b04b5c249",
+      "title": "Thinking Fast and Slow",
+      "author": "Daniel Kahneman",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3676eb40-4fa0-806d-9772-d99b04b5c249.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-8010-96a1-ef1215f6c141",
+      "title": "Finding my Virginity",
+      "author": "Richard Branson",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/3676eb40-4fa0-8010-96a1-ef1215f6c141.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-8049-b6f4-fed8f726b3f7",
+      "title": "Delivering Happiness",
+      "author": "Tony Hsieh",
+      "status": "Finished",
+      "genre": "Business / Finance",
+      "cover": "assets/books/3676eb40-4fa0-8049-b6f4-fed8f726b3f7.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-809c-8f7c-c2db8dfb32bd",
+      "title": "Men of Steel",
+      "author": "Vir Sanghavi",
+      "status": "Finished",
+      "genre": "Business / Finance",
+      "cover": "assets/books/3676eb40-4fa0-809c-8f7c-c2db8dfb32bd.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-80e4-aae3-e56aa6db5350",
+      "title": "Stay Hungry Stay Foolish",
+      "author": "Rashmi Bansal",
+      "status": "Finished",
+      "genre": "Business / Finance",
+      "cover": "assets/books/3676eb40-4fa0-80e4-aae3-e56aa6db5350.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-806a-adce-f731de6b6419",
+      "title": "Blink",
+      "author": "Malcolm Gladwell",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3676eb40-4fa0-806a-adce-f731de6b6419.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-80ee-9802-f893490f593a",
+      "title": "The Secret of Nagas",
+      "author": "Amish",
+      "status": "Finished",
+      "genre": "Fiction",
+      "cover": "assets/books/3676eb40-4fa0-80ee-9802-f893490f593a.jpg"
+    },
+    {
+      "id": "3676eb40-4fa0-807f-8c59-f150d348a913",
+      "title": "The Immortals of Melhua",
+      "author": "Amish",
+      "status": "Finished",
+      "genre": "Fiction",
+      "cover": "assets/books/3676eb40-4fa0-807f-8c59-f150d348a913.jpg"
+    },
+    {
+      "id": "36c6eb40-4fa0-80cb-a3bf-fd6550e6f340",
+      "title": "buildit",
+      "author": "Albinder Singh",
+      "status": "Finished",
+      "genre": "Biography / Memoir",
+      "cover": "assets/books/36c6eb40-4fa0-80cb-a3bf-fd6550e6f340.jpg"
+    },
+    {
+      "id": "36c6eb40-4fa0-800d-9074-f4c753032953",
+      "title": "Captives and Companions",
+      "author": "Justin Marozzi",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/36c6eb40-4fa0-800d-9074-f4c753032953.jpg"
+    },
+    {
+      "id": "3826eb40-4fa0-8065-ae1d-da3c2be84ada",
+      "title": "Rope",
+      "author": "Tim Queeney",
+      "status": "Reading",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3826eb40-4fa0-8065-ae1d-da3c2be84ada.jpg"
+    },
+    {
+      "id": "3866eb40-4fa0-80fe-af25-f772d91e5d3d",
+      "title": "The Shortest history of Japan",
+      "author": "Lesley Downer",
+      "status": "Reading",
+      "genre": "History",
+      "cover": "assets/books/3866eb40-4fa0-80fe-af25-f772d91e5d3d.jpg"
+    },
+    {
+      "id": "3866eb40-4fa0-80c1-9f05-f5c7d9d75de8",
+      "title": "Ordinary Time",
+      "author": "Annie Jones",
+      "status": "Finished",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3866eb40-4fa0-80c1-9f05-f5c7d9d75de8.jpg"
+    },
+    {
+      "id": "38e6eb40-4fa0-804a-a886-deea1f30f29c",
+      "title": "Searching for Novak",
+      "author": "Mark Hodgkinson",
+      "status": "Reading",
+      "genre": "",
+      "cover": null
+    },
+    {
+      "id": "3c56eb40-4fa0-806b-9bd7-e1b45faa02ef",
+      "title": "Behave",
+      "author": "Robert Sapolsky",
+      "status": "Reading",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3c56eb40-4fa0-806b-9bd7-e1b45faa02ef.jpg"
+    },
+    {
+      "id": "3c56eb40-4fa0-801d-bc47-c1a83f2bef66",
+      "title": "Never Eat Alone",
+      "author": "Keith Ferrazzi",
+      "status": "Reading",
+      "genre": "Non-Fiction",
+      "cover": "assets/books/3c56eb40-4fa0-801d-bc47-c1a83f2bef66.jpg"
+    }
+  ],
+  "travel": [
+    {
+      "id": "d1d6eb40-4fa0-82b2-966e-8158026e36d5",
+      "title": "Iceland",
+      "icon": "🇮🇸",
+      "status": "Visited",
+      "type": "Road trip,Nature & Outdoors",
+      "continent": "Europe",
+      "favorite": "Yes",
+      "cover": "assets/travel/d1d6eb40-4fa0-82b2-966e-8158026e36d5.jpg"
+    },
+    {
+      "id": "9696eb40-4fa0-83dc-885c-01c6530da1fb",
+      "title": "Japan",
+      "icon": "🇯🇵",
+      "status": "Visited",
+      "type": "City Trip,Road trip,Culture",
+      "continent": "Asia",
+      "favorite": "Yes",
+      "cover": "assets/travel/9696eb40-4fa0-83dc-885c-01c6530da1fb.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80a1-967f-ff7d6def09d8",
+      "title": "Kenya",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "Yes",
+      "cover": "assets/travel/39a6eb40-4fa0-80a1-967f-ff7d6def09d8.jpg"
+    },
+    {
+      "id": "a796eb40-4fa0-8343-95ee-0140fbed9672",
+      "title": "Sweden",
+      "icon": "🇸🇪",
+      "status": "Visited",
+      "type": "City Trip",
+      "continent": "Europe",
+      "favorite": "Yes",
+      "cover": "assets/travel/a796eb40-4fa0-8343-95ee-0140fbed9672.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80be-93d8-f3846e453522",
+      "title": "Australia",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80be-93d8-f3846e453522.jpg"
+    },
+    {
+      "id": "d926eb40-4fa0-8356-bd64-816eba8edce2",
+      "title": "Turkey",
+      "icon": "🇹🇷",
+      "status": "Visited",
+      "type": "Culture,Nature & Outdoors",
+      "continent": "Asia,Europe",
+      "favorite": "Yes",
+      "cover": "assets/travel/d926eb40-4fa0-8356-bd64-816eba8edce2.jpg"
+    },
+    {
+      "id": "76b6eb40-4fa0-839e-a5e7-81c689ba4dae",
+      "title": "USA",
+      "icon": "🇺🇸",
+      "status": "Visited",
+      "type": "City Trip",
+      "continent": "North & Central America",
+      "favorite": "Yes",
+      "cover": "assets/travel/76b6eb40-4fa0-839e-a5e7-81c689ba4dae.jpg"
+    },
+    {
+      "id": "d896eb40-4fa0-831b-b174-8129c0a4412c",
+      "title": "Hong Kong",
+      "icon": "🇭🇰",
+      "status": "Visited",
+      "type": "City Trip,Culture",
+      "continent": "Asia",
+      "favorite": "Yes",
+      "cover": "assets/travel/d896eb40-4fa0-831b-b174-8129c0a4412c.jpg"
+    },
+    {
+      "id": "23b6eb40-4fa0-82ab-9c29-81cbebf403ca",
+      "title": "South Korea",
+      "icon": "🇰🇷",
+      "status": "Visited",
+      "type": "Road trip,City Trip,Culture",
+      "continent": "Asia",
+      "favorite": "Yes",
+      "cover": "assets/travel/23b6eb40-4fa0-82ab-9c29-81cbebf403ca.jpg"
+    },
+    {
+      "id": "78a6eb40-4fa0-8396-9732-01f516e8e665",
+      "title": "Mexico",
+      "icon": "🇲🇽",
+      "status": "Visited",
+      "type": "Road trip,Culture,Beach Holiday",
+      "continent": "North & Central America",
+      "favorite": "Yes",
+      "cover": "assets/travel/78a6eb40-4fa0-8396-9732-01f516e8e665.jpg"
+    },
+    {
+      "id": "c9d6eb40-4fa0-8291-b604-01c701d369fe",
+      "title": "Denmark",
+      "icon": "🇩🇰",
+      "status": "Visited",
+      "type": "City Trip",
+      "continent": "Europe",
+      "favorite": "Yes",
+      "cover": "assets/travel/c9d6eb40-4fa0-8291-b604-01c701d369fe.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80d2-96b1-e8c4b772acc8",
+      "title": "Finland",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80d2-96b1-e8c4b772acc8.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8021-a9fc-cdbf236985b9",
+      "title": "Thailand",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8021-a9fc-cdbf236985b9.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8084-9448-e86c6de11d26",
+      "title": "France",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8084-9448-e86c6de11d26.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-809e-bdbf-ea2881c86ce9",
+      "title": "Belgium",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-809e-bdbf-ea2881c86ce9.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8099-a232-e11ef4b7ed7e",
+      "title": "Netherlands",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "Yes",
+      "cover": "assets/travel/39a6eb40-4fa0-8099-a232-e11ef4b7ed7e.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80b5-b2c4-e61c221d5ced",
+      "title": "Singapore",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "Yes",
+      "cover": "assets/travel/39a6eb40-4fa0-80b5-b2c4-e61c221d5ced.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80a0-8197-e516ff077d8b",
+      "title": "UK",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80a0-8197-e516ff077d8b.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80ce-946e-ca66b245db2d",
+      "title": "Srilanka",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80ce-946e-ca66b245db2d.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80ef-9fb8-fd6d1ee5e486",
+      "title": "Indonesia",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80ef-9fb8-fd6d1ee5e486.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80c9-abc4-cf95fdbb88f7",
+      "title": "Spain",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80c9-abc4-cf95fdbb88f7.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8069-8ebb-e4ebd150a187",
+      "title": "Maldives",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8069-8ebb-e4ebd150a187.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8097-848e-d91be0e59ced",
+      "title": "UAE",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8097-848e-d91be0e59ced.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8032-83d8-cfaa992c9552",
+      "title": "Malysia",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8032-83d8-cfaa992c9552.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80ec-b518-edb41fef9eb6",
+      "title": "China",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80ec-b518-edb41fef9eb6.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-801a-ba56-d0d362fb277c",
+      "title": "Germany",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-801a-ba56-d0d362fb277c.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-804b-917d-dfee4d540a6c",
+      "title": "Canada",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-804b-917d-dfee4d540a6c.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8078-b478-c3bafc0de95b",
+      "title": "Bahrain",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8078-b478-c3bafc0de95b.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80a8-8d8c-fd76007cad20",
+      "title": "Qator",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80a8-8d8c-fd76007cad20.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80bc-9b61-c304e2e8e1d2",
+      "title": "Oman",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80bc-9b61-c304e2e8e1d2.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8045-a811-c9119d3648f6",
+      "title": "Saudi Arabia",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8045-a811-c9119d3648f6.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80f8-b964-eda1e3e62874",
+      "title": "Austria",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80f8-b964-eda1e3e62874.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80eb-9053-edf1a0d7ce19",
+      "title": "Croatia",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80eb-9053-edf1a0d7ce19.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-806c-af3d-ed7392f00b0d",
+      "title": "Estonia",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-806c-af3d-ed7392f00b0d.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80f8-9495-f30aab287637",
+      "title": "Greece",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80f8-9495-f30aab287637.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8096-96ae-d0964979f25b",
+      "title": "Italy",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8096-96ae-d0964979f25b.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80c4-8228-ea258db323ce",
+      "title": "Tanzania",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80c4-8228-ea258db323ce.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-8057-affd-c01198299211",
+      "title": "Portugal",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-8057-affd-c01198299211.jpg"
+    },
+    {
+      "id": "39a6eb40-4fa0-80f5-bf17-e543259428b1",
+      "title": "Switzerland",
+      "icon": "",
+      "status": "Visited",
+      "type": "",
+      "continent": "",
+      "favorite": "",
+      "cover": "assets/travel/39a6eb40-4fa0-80f5-bf17-e543259428b1.jpg"
+    }
+  ]
+}
